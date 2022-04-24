@@ -1,7 +1,7 @@
 # Sentiment-Analysis-Pyspark
 
 <p align="center">
-  <img src="snapshot1.png" />
+  <img src="snapshot.png" />
 </p>
 <p align="center">
   <img src="snapshot2.png" />
